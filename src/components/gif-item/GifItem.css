@@ -1,5 +1,23 @@
-.gif-item 
+.gif-item,
+.gif-item-image-placeholder
 {
-  display: 'flex';
   padding: 10px;
+  margin: 10px;
+}
+
+.gif-item-image-placeholder
+{
+  border-radius: 10px;
+  border: grey 1px solid;
+  background-color: silver;
+  text-align: center;
+  display: inline-grid;
+}
+
+.gif-item-image-placeholder p
+{
+  top: 40%;
+  position: relative;
+  display: block;
+  font-style: italic;
 }
