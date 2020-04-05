@@ -38,8 +38,7 @@
 
 .gif-searcher .input-input
 {
-  padding: 1pt 1pt 1pt, 0;
-  padding-left: calc(1em + 24pt);
+  padding: 10px 10px 10px 40px;
   width: 100%;
   border-radius: 5px;
   border-color: white;
